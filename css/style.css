@@ -1,12 +1,6 @@
 body {
-    scrollbar-face-color: #006699;
-    scrollbar-highlight-color: #cc3300;
-    scrollbar-shadow-color: #000000;
-    scrollbar-3dlight-color: #006699;
-    scrollbar-arrow-color: #ffffff;
-    scrollbar-track-color: #0099cc;
-    scrollbar-darkshadow-color: #000000;
-    scrollbar-base-color: #848ea9;
+    top: 0;
+    left: 0;
 }
 .lnk1:hover {
     color: #0000fa;
